@@ -8,3 +8,4 @@
 # Salvando Alterações 
 * restore
 * comando git push
+* vamo ver se vai agr
