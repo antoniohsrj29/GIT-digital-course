@@ -7,3 +7,4 @@
 
 # Salvando Alterações 
 * restore
+* comando git push
