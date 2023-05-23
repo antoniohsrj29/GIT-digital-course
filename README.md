@@ -9,3 +9,4 @@
 * restore
 * comando git push
 * vamo ver se vai agr
+* comando git pull
